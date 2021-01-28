@@ -1,0 +1,418 @@
+{
+  "release": {
+    "puppeteer": [
+      "5.5.0",
+      "5.4.1",
+      "5.4.0",
+      "5.3.1",
+      "5.3.0",
+      "5.2.1",
+      "5.2.0",
+      "5.1.0",
+      "5.0.0",
+      "4.0.1",
+      "4.0.0",
+      "3.3.0",
+      "3.2.0",
+      "3.1.0",
+      "3.0.4",
+      "3.0.3",
+      "3.0.2",
+      "3.0.1",
+      "3.0.0",
+      "2.1.1",
+      "2.1.0",
+      "2.0.0",
+      "1.20.0",
+      "1.19.0",
+      "1.18.1",
+      "1.18.0",
+      "1.17.0",
+      "1.16.0",
+      "1.15.0",
+      "1.14.0",
+      "0.9.0"
+    ],
+    "playwright": ["1.8", "1.7", "1.6", "1.5", "1.4", "1.3", "1.2", "1.1", "1.0"]
+  },
+  "_browserRoot": {
+    "playwright": {
+      "className": "BrowserType",
+      "path": "https://playwright.dev/docs/api/class-browsertype"
+    },
+    "puppeteer": {
+      "className": "Puppeteer",
+      "path": "/#?product=Puppeteer&show=api-class-puppeteer"
+    }
+  },
+  "Accessibility": {
+    "playwright": {
+      "className": "Accessibility",
+      "path": "https://playwright.dev/docs/api/class-accessibility"
+    },
+    "puppeteer": {
+      "className": "Accessibility",
+      "path": "/#?product=Puppeteer&show=api-class-accessibility"
+    }
+  },
+  "Browser": {
+    "playwright": {
+      "className": "Browser",
+      "path": "https://playwright.dev/docs/api/class-browser"
+    },
+    "puppeteer": {
+      "className": "Browser",
+      "path": "/#?product=Puppeteer&show=api-class-browser"
+    }
+  },
+  "BrowserContext": {
+    "playwright": {
+      "className": "BrowserContext",
+      "path": "https://playwright.dev/docs/api/class-browsercontext"
+    },
+    "puppeteer": {
+      "className": "BrowserContext",
+      "path": "/#?product=Puppeteer&show=api-class-browsercontext"
+    }
+  },
+  "BrowserFetcher": {
+    "playwright": {
+      "className": null,
+      "path": null
+    },
+    "puppeteer": {
+      "className": "BrowserFetcher",
+      "path": "/#?product=Puppeteer&show=api-class-browserfetcher"
+    }
+  },
+  "BrowserServer": {
+    "playwright": {
+      "className": "BrowserServer",
+      "path": "https://playwright.dev/docs/api/class-browserserver"
+    },
+    "puppeteer": {
+      "className": null,
+      "path": null
+    }
+  },
+  "CDPSession": {
+    "playwright": {
+      "className": "CDPSession",
+      "path": "https://playwright.dev/docs/api/class-cdpsession"
+    },
+    "puppeteer": {
+      "className": "CDPSession",
+      "path": "/#?product=Puppeteer&show=api-class-cdpsession"
+    }
+  },
+  "ChromiumBrowser": {
+    "playwright": {
+      "className": "ChromiumBrowser",
+      "path": "https://playwright.dev/docs/api/class-chromiumbrowser"
+    },
+    "puppeteer": {
+      "className": null,
+      "path": null
+    }
+  },
+  "ChromiumBrowserContext": {
+    "playwright": {
+      "className": "ChromiumBrowserContext",
+      "path": "https://playwright.dev/docs/api/class-chromiumbrowsercontext"
+    },
+    "puppeteer": {
+      "className": null,
+      "path": null
+    }
+  },
+  "ChromiumCoverage": {
+    "playwright": {
+      "className": "ChromiumCoverage",
+      "path": "https://playwright.dev/docs/api/class-chromiumcoverage"
+    },
+    "puppeteer": {
+      "className": null,
+      "path": null
+    }
+  },
+  "ConsoleMessage": {
+    "playwright": {
+      "className": "ConsoleMessage",
+      "path": "https://playwright.dev/docs/api/class-consolemessage"
+    },
+    "puppeteer": {
+      "className": "ConsoleMessage",
+      "path": "/#?product=Puppeteer&show=api-class-consolemessage"
+    }
+  },
+  "Coverage": {
+    "playwright": {
+      "className": null,
+      "path": null
+    },
+    "puppeteer": {
+      "className": "Coverage",
+      "path": "/#?product=Puppeteer&show=api-class-coverage"
+    }
+  },
+  "Dialog": {
+    "playwright": {
+      "className": "Dialog",
+      "path": "https://playwright.dev/docs/api/class-dialog"
+    },
+    "puppeteer": {
+      "className": "Dialog",
+      "path": "/#?product=Puppeteer&show=api-class-dialog"
+    }
+  },
+  "Download": {
+    "playwright": {
+      "className": "Download",
+      "path": "https://playwright.dev/docs/api/class-download"
+    },
+    "puppeteer": {
+      "className": null,
+      "path": null
+    }
+  },
+  "ElementHandle": {
+    "playwright": {
+      "className": "ElementHandle",
+      "path": "https://playwright.dev/docs/api/class-elementhandle"
+    },
+    "puppeteer": {
+      "className": "ElementHandle",
+      "path": "/#?product=Puppeteer&show=api-class-elementhandle"
+    }
+  },
+  "EventEmitter": {
+    "playwright": {
+      "className": null,
+      "path": null
+    },
+    "puppeteer": {
+      "className": "EventEmitter",
+      "path": "/#?product=Puppeteer&show=api-class-eventemitter"
+    }
+  },
+  "ExecutionContext": {
+    "playwright": {
+      "className": null,
+      "path": null
+    },
+    "puppeteer": {
+      "className": "ExecutionContext",
+      "path": "/#?product=Puppeteer&show=api-class-executioncontext"
+    }
+  },
+  "FileChooser": {
+    "playwright": {
+      "className": "FileChooser",
+      "path": "https://playwright.dev/docs/api/class-filechooser"
+    },
+    "puppeteer": {
+      "className": "FileChooser",
+      "path": "/#?product=Puppeteer&show=api-class-filechooser"
+    }
+  },
+  "FirefoxBrowser": {
+    "playwright": {
+      "className": "FirefoxBrowser",
+      "path": "https://playwright.dev/docs/api/class-firefoxbrowser"
+    },
+    "puppeteer": {
+      "className": null,
+      "path": null
+    }
+  },
+  "Frame": {
+    "playwright": {
+      "className": "Frame",
+      "path": "https://playwright.dev/docs/api/class-frame"
+    },
+    "puppeteer": {
+      "className": "Frame",
+      "path": "/#?product=Puppeteer&show=api-class-frame"
+    }
+  },
+  "HTTPRequest": {
+    "playwright": {
+      "className": "Request",
+      "path": "https://playwright.dev/docs/api/class-request"
+    },
+    "puppeteer": {
+      "className": "HTTPRequest",
+      "path": "/#?product=Puppeteer&show=api-class-httprequest"
+    }
+  },
+  "HTTPResponse": {
+    "playwright": {
+      "className": "Response",
+      "path": "https://playwright.dev/docs/api/class-response"
+    },
+    "puppeteer": {
+      "className": "HTTPResponse",
+      "path": "/#?product=Puppeteer&show=api-class-httpresponse"
+    }
+  },
+  "JSHandle": {
+    "playwright": {
+      "className": "JSHandle",
+      "path": "https://playwright.dev/docs/api/class-jshandle"
+    },
+    "puppeteer": {
+      "className": "JSHandle",
+      "path": "/#?product=Puppeteer&show=api-class-jshandle"
+    }
+  },
+  "Keyboard": {
+    "playwright": {
+      "className": "Keyboard",
+      "path": "https://playwright.dev/docs/api/class-keyboard"
+    },
+    "puppeteer": {
+      "className": "Keyboard",
+      "path": "/#?product=Puppeteer&show=api-class-keyboard"
+    }
+  },
+  "Logger": {
+    "playwright": {
+      "className": "Logger",
+      "path": "https://playwright.dev/docs/api/class-logger"
+    },
+    "puppeteer": {
+      "className": null,
+      "path": null
+    }
+  },
+  "Mouse": {
+    "playwright": {
+      "className": "Mouse",
+      "path": "https://playwright.dev/docs/api/class-mouse"
+    },
+    "puppeteer": {
+      "className": "Mouse",
+      "path": "/#?product=Puppeteer&show=api-class-mouse"
+    }
+  },
+  "Page": {
+    "playwright": {
+      "className": "Page",
+      "path": "https://playwright.dev/docs/api/class-page"
+    },
+    "puppeteer": {
+      "className": "Page",
+      "path": "/#?product=Puppeteer&show=api-class-page"
+    }
+  },
+  "Route": {
+    "playwright": {
+      "className": "Route",
+      "path": "https://playwright.dev/docs/api/class-route"
+    },
+    "puppeteer": {
+      "className": null,
+      "path": null
+    }
+  },
+  "SecurityDetails": {
+    "playwright": {
+      "className": null,
+      "path": null
+    },
+    "puppeteer": {
+      "className": "SecurityDetails",
+      "path": "/#?product=Puppeteer&show=api-class-securitydetails"
+    }
+  },
+  "Selectors": {
+    "playwright": {
+      "className": "Selectors",
+      "path": "https://playwright.dev/docs/api/class-selectors"
+    },
+    "puppeteer": {
+      "className": "CustomQueryHandler",
+      "path": "/#?product=Puppeteer&show=api-interface-customqueryhandler"
+    }
+  },
+  "Target": {
+    "playwright": {
+      "className": null,
+      "path": null
+    },
+    "puppeteer": {
+      "className": "Target",
+      "path": "/#?product=Puppeteer&show=api-class-target"
+    }
+  },
+  "TimeoutError": {
+    "playwright": {
+      "className": "TimeoutError",
+      "path": "https://playwright.dev/docs/api/class-timeouterror"
+    },
+    "puppeteer": {
+      "className": "TimeoutError",
+      "path": "/#?product=Puppeteer&show=api-class-timeouterror"
+    }
+  },
+  "Touchscreen": {
+    "playwright": {
+      "className": "Touchscreen",
+      "path": "https://playwright.dev/docs/api/class-touchscreen"
+    },
+    "puppeteer": {
+      "className": "Touchscreen",
+      "path": "/#?product=Puppeteer&show=api-class-touchscreen"
+    }
+  },
+  "Tracing": {
+    "playwright": {
+      "className": null,
+      "path": null
+    },
+    "puppeteer": {
+      "className": "Tracing",
+      "path": "/#?product=Puppeteer&show=api-class-tracing"
+    }
+  },
+  "Video": {
+    "playwright": {
+      "className": "Video",
+      "path": "https://playwright.dev/docs/api/class-video"
+    },
+    "puppeteer": {
+      "className": null,
+      "path": null
+    }
+  },
+  "WebKitBrowser": {
+    "playwright": {
+      "className": "WebKitBrowser",
+      "path": "https://playwright.dev/docs/api/class-webkitbrowser"
+    },
+    "puppeteer": {
+      "className": null,
+      "path": null
+    }
+  },
+  "WebSocket": {
+    "playwright": {
+      "className": "WebSocket",
+      "path": "https://playwright.dev/docs/api/class-websocket"
+    },
+    "puppeteer": {
+      "className": null,
+      "path": null
+    }
+  },
+  "WebWorker": {
+    "playwright": {
+      "className": "Worker",
+      "path": "https://playwright.dev/docs/api/class-worker"
+    },
+    "puppeteer": {
+      "className": "WebWorker",
+      "path": "/#?product=Puppeteer&show=api-class-webworker"
+    }
+  }
+}
