@@ -1,0 +1,26 @@
+{
+  "name": "puppeteer-playwright-api-compare",
+  "version": "1.0.0",
+  "description": "Let's compare the api methods of the two very similar libraries to help decide if it worths to favor any of them over the other.",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theDavidBarton/puppeteer-playwright-api-compare.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "playwright",
+    "api",
+    "docs",
+    "comparison"
+  ],
+  "author": "theDavidBarton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theDavidBarton/puppeteer-playwright-api-compare/issues"
+  },
+  "homepage": "https://github.com/theDavidBarton/puppeteer-playwright-api-compare#readme"
+}
